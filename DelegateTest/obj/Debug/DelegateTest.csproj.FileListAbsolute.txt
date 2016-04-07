@@ -1,0 +1,5 @@
+D:\Project\DelegateTest\DelegateTest\bin\Debug\DelegateTest.exe.config
+D:\Project\DelegateTest\DelegateTest\bin\Debug\DelegateTest.exe
+D:\Project\DelegateTest\DelegateTest\bin\Debug\DelegateTest.pdb
+D:\Project\DelegateTest\DelegateTest\obj\Debug\DelegateTest.exe
+D:\Project\DelegateTest\DelegateTest\obj\Debug\DelegateTest.pdb
